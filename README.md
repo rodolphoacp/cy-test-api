@@ -26,14 +26,14 @@ npx cypress open
 ### Documentações
 
 #### API de autenticação
-Documentação para criar token de acesso
+Documentação para criar token de acesso <br />
 https://app.swaggerhub.com/apis-docs/webmais/auth/1.1.0
 
 
 #### API do ERP
-Documentação do serviços disponíveis do WMS
+Documentação do serviços disponíveis do WMS <br />
 https://app.swaggerhub.com/apis-docs/webmais/erp/1.1.4#/
 
 #### Cypress
-Recursos de manipulação, ações para construír os cenários de teste
+Recursos de manipulação, ações para construír os cenários de teste <br />
 https://docs.cypress.io/api/table-of-contents
